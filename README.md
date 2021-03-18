@@ -1,5 +1,10 @@
 # react-native-keyboard-aware-scroll-view
 
+
+<p align="center">
+Forked from the [original](https://github.com/APSL/react-native-keyboard-aware-scroll-view) repo to fix main issue such as [#469](https://github.com/APSL/react-native-keyboard-aware-scroll-view/issues/469)
+</p>
+
 <p>
 <img src="https://travis-ci.org/APSL/react-native-keyboard-aware-scroll-view.svg?branch=master" />
 <img src="https://img.shields.io/npm/dm/react-native-keyboard-aware-scroll-view.svg" />
@@ -211,6 +216,4 @@ MIT.
 
 ## Author
 
-Álvaro Medina Ballester `<amedina at apsl.net>`
-
-Built with 💛 by [APSL](https://github.com/apsl).
+Robert Tirtasentana
