@@ -1,9 +1,6 @@
 # react-native-keyboard-aware-scroll-view
 
-
-<p align="center">
 Forked from the [original](https://github.com/APSL/react-native-keyboard-aware-scroll-view) repo to fix main issue such as [#469](https://github.com/APSL/react-native-keyboard-aware-scroll-view/issues/469)
-</p>
 
 <p>
 <img src="https://travis-ci.org/APSL/react-native-keyboard-aware-scroll-view.svg?branch=master" />
